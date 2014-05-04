@@ -1,0 +1,4 @@
+app:
+  image: python3_base
+  volumes: 
+   - .:/source
