@@ -1,4 +1,4 @@
 app:
-  image: python3_base
+  image: webwurst/python3-base
   volumes: 
    - .:/source
